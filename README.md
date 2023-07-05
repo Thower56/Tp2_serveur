@@ -5,7 +5,9 @@ Dans ce travail pratique, vous allez démontrer que vous avez installé un syst�
 et que vous êtes capable de créer des conteneurs selon une description.
 
 Section 1:
+
 ![VersionDockers](https://github.com/Thower56/Tp2_serveur/assets/112575794/3b4709f7-2c56-42cc-a34b-4da0b5d6d313)
+
 
 Etape 1:
 docker --version
