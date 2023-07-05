@@ -1,8 +1,15 @@
 Tp2 serveur
+
 2023-07-04
 
 Dans ce travail pratique, vous allez démontrer que vous avez installé un système de conteneurs
 et que vous êtes capable de créer des conteneurs selon une description.
+
+lien: 
+
+https://hub.docker.com/_/drupal/
+https://hub.docker.com/_/httpd
+https://hub.docker.com/_/postgres
 
 Section 1:
 
