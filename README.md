@@ -32,3 +32,5 @@ docker network inspect mon_reseau
 
 docker logs mongoDB | grep adminmongo
 
+
+![Screenshot from 2023-07-05 13-33-51](https://github.com/Thower56/Tp2_serveur/assets/112575794/fcf5730e-85d9-4156-9bdc-ac3fd48c264c)
