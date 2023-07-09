@@ -39,5 +39,5 @@ services:
     environment:
       POSTGRES_DB: drupal
       POSTGRES_USER: charles
-      POSTGRES_PASSWORD: Molder56
+      POSTGRES_PASSWORD: asdasd
     restart: always
